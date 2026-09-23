@@ -1,0 +1,2 @@
+# CodeAlpha_HandwrittenCharacterRecognition
+TASK-3 CodeAlpha_HandwrittenCharacterRecognition
